@@ -50,18 +50,20 @@ What is your data biography?
 - How was it collected and prepped or analyzed before you received it?
 
 ## Examples to checkout
-*Quantitative Visualization*
+### Quantitative Visualization
 
 Everyone's favourite stock of the moment...
 
 ![$GME Quantitative Example](assets/GME.jpg)
 
-*Qualitative Visualization*
-
+### Qualitative Visualization
 ![Qualitative Example](https://66.media.tumblr.com/tumblr_ld2wwj6zWw1qz4fww.jpg)
+"Tsu-20041226-005853UTC", Stephen Boyd, 2005.  
+[Blog post for more information](https://sspboyd.ca/blog/2010/12/14/tsu-20041226-005853utc/) about the piece.
 
-- Accurat Studio, accurat.it
-- Giorgia Lupi, giorgialupi.com
+### A few sites to look to for inspiration
+- [Accurat Studio](http://accurat.it/)
+- [Giorgia Lupi](http://giorgialupi.com/)
 - [Moritz Stefaner](https://truth-and-beauty.net/), https://truth-and-beauty.net/
 - [Nadieh Bremer](https://www.visualcinnamon.com/about/), https://www.visualcinnamon.com/about/
 
