@@ -50,6 +50,13 @@ What is your data biography?
 - How was it collected and prepped or analyzed before you received it?
 
 ## Examples to checkout
+*Quantitative Visualization*
+Everyone's favourite stock of the moment...
+![$GME Quantitative Example](assets/GME.jpg)
+
+*Qualitative Visualization*
+![Qualitative Example](https://66.media.tumblr.com/tumblr_ld2wwj6zWw1qz4fww.jpg)
+
 - Accurat Studio, accurat.it
 - Giorgia Lupi, giorgialupi.com
 - [Moritz Stefaner](https://truth-and-beauty.net/), https://truth-and-beauty.net/
@@ -72,5 +79,4 @@ What is your data biography?
 ## Thank you very much and get in touch!
 You can find me online:  
 stephen@sspboyd.ca  
-@sspboyd on twitter / github / insta / linkedin / etc..
-
+@sspboyd on [twitter](https://twitter.com/sspboyd) / [github](https://github.com/sspboyd) / [instagram](https://www.instagram.com/sspboyd/) / [linkedin](https://www.linkedin.com/in/sspboyd/) / etc..
