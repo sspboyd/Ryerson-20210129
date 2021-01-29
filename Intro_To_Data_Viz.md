@@ -58,6 +58,7 @@ Everyone's favourite stock of the moment...
 
 ### Qualitative Visualization
 ![Qualitative Example](https://66.media.tumblr.com/tumblr_ld2wwj6zWw1qz4fww.jpg)
+
 "Tsu-20041226-005853UTC", Stephen Boyd, 2005.  
 [Blog post for more information](https://sspboyd.ca/blog/2010/12/14/tsu-20041226-005853utc/) about the piece.
 
