@@ -51,10 +51,13 @@ What is your data biography?
 
 ## Examples to checkout
 *Quantitative Visualization*
+
 Everyone's favourite stock of the moment...
+
 ![$GME Quantitative Example](assets/GME.jpg)
 
 *Qualitative Visualization*
+
 ![Qualitative Example](https://66.media.tumblr.com/tumblr_ld2wwj6zWw1qz4fww.jpg)
 
 - Accurat Studio, accurat.it
