@@ -74,13 +74,3 @@ You can find me online:
 stephen@sspboyd.ca  
 @sspboyd on twitter / github / insta / linkedin / etc..
 
-
----
-Questions for George
-Is there an open chat to post links or questions?
-
-
-To Do
-Spellcheck
-Social Links
-update to github
